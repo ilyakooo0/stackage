@@ -4763,7 +4763,9 @@ packages:
         - data-default-instances-text
         - data-default-instances-unordered-containers
         - data-default-instances-vector
-
+        
+    "Ilya Kostyuchenko <ilyakooo0@gmail.com> @ilyakooo0"
+        - compaREST
     "Grandfathered dependencies":
         - Boolean
         - Cabal-syntax
